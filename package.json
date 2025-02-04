@@ -4,7 +4,7 @@
   "description": "Estudos TypeScript e React",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node ./aulas/aula1/app.ts",
+    "dev": "ts-node aulas/introducaoAoTypescript/aula1/app.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
